@@ -1,8 +1,7 @@
 Runeshark
 =========
 
-Open Source Color Bot
+Open Source Color Bot written in Java.
 
-Never make one this bad...
+Utilizing state of the art pixel searching patterns and algorithms, this was once the coveted software of those wishing to automate.
 
--Swipe
